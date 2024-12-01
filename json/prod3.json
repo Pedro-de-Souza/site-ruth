@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+            "id": 3,
+            "nome": "Headset Surround 7.1",
+            "categoria": "Headset",
+            "descricao": "Headset com som surround 7.1 e microfone removível",
+            "marca": "HyperX",
+            "preco": 399.90,
+            "imagem": "imagem/3.png",
+            "link": "paginaProd.html?id=3"
+    
+        }
+        
+    ]   
+}

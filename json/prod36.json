@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 36,
+            "nome": "Ram 16GB DDR4 3600MHz",
+            "categoria": "Memória",
+            "descricao": "Módulo de memória RAM DDR4 de 16GB com frequência de 3600MHz",
+            "marca": "Corsair",
+            "preco": 499.90,
+            "imagem": "imagem/36.png",
+            "link": "paginaProd.html?id=36"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 38,
+            "nome": "Cabo DisplayPort 1.4",
+            "categoria": "Cabo",
+            "descricao": "Cabo DisplayPort 1.4 com suporte a resoluções de até 8K",
+            "marca": "Cable Matters",
+            "preco": 99.90,
+            "imagem": "imagem/38.png",
+            "link": "paginaProd.html?id=38"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+    "id": 17,
+        "nome": "Fonte 750W Modular",
+        "categoria": "Fonte",
+        "descricao": "Fonte de alimentação modular de 750W com certificação 80 Plus Gold",
+        "marca": "EVGA",
+        "preco": 649.90,
+        "imagem": "imagem/17.png",
+        "link": "paginaProd.html?id=17"
+        }
+        
+    ]   
+}

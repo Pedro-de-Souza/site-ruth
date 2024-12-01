@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "nome": "Teclado Mecânico RGB",
+        "categoria": "Teclado",
+        "descricao": "Teclado mecânico com switches Cherry MX e iluminação RGB",
+        "marca": "Corsair",
+        "preco": 499.99,
+        "imagem": "imagem/1.png",
+        "link": "paginaProd.html?id=1"
+    },
+    {
+        "id": 2,
+        "nome": "Mouse Gamer 16000 DPI",
+        "categoria": "Mouse",
+        "descricao": "Mouse com sensor óptico de alta precisão com ajuste de DPI até 16000",
+        "marca": "Razer",
+        "preco": 349.99,
+        "imagem": "imagem/2.png",
+        "link": "paginaProd.html?id=2"
+    },
+    {
+        "id": 3,
+        "nome": "Headset Surround 7.1",
+        "categoria": "Headset",
+        "descricao": "Headset com som surround 7.1 e microfone removível",
+        "marca": "HyperX",
+        "preco": 399.90,
+        "imagem": "imagem/3.png",
+        "link": "paginaProd.html?id=3"
+    },
+    {
+        "id": 4,
+        "nome": "Monitor Curvo 27\" 165Hz",
+        "categoria": "Monitor",
+        "descricao": "Monitor curvo de 27 polegadas com 165Hz e resolução 1440p",
+        "marca": "Samsung",
+        "preco": 1999.00,
+        "imagem": "imagem/4.png",
+        "link": "paginaProd.html?id=4"
+    },
+    {
+        "id": 5,
+        "nome": "Cadeira Gamer Ergonômica",
+        "categoria": "Cadeira",
+        "descricao": "Cadeira com ajuste de altura, inclinação e apoio lombar",
+        "marca": "DXRacer",
+        "preco": 1299.90,
+        "imagem": "imagem/5.png",
+        "link": "paginaProd.html?id=5"
+    },
+    {
+        "id": 6,
+        "nome": "Placa de Vídeo RTX 3080",
+        "categoria": "Placa de Vídeo",
+        "descricao": "Placa de vídeo com 10GB GDDR6X, ideal para jogos em 4K",
+        "marca": "NVIDIA",
+        "preco": 5999.99,
+        "imagem": "imagem/6.png",
+        "link": "paginaProd.html?id=6"
+    },
+    {
+        "id": 7,
+        "nome": "SSD NVMe 1TB",
+        "categoria": "Armazenamento",
+        "descricao": "SSD NVMe de 1TB com velocidades de leitura de até 3500MB/s",
+        "marca": "Samsung",
+        "preco": 799.99,
+        "imagem": "imagem/7.png",
+        "link": "paginaProd.html?id=7"
+    },
+    {
+        "id": 8,
+        "nome": "Processador Ryzen 9 5900X",
+        "categoria": "Processador",
+        "descricao": "Processador AMD com 12 núcleos e 24 threads",
+        "marca": "AMD",
+        "preco": 2499.90,
+        "imagem": "imagem/8.png",
+        "link": "paginaProd.html?id=8"
+    },
+    {
+        "id": 9,
+        "nome": "Mousepad Gamer XXL RGB",
+        "categoria": "Mousepad",
+        "descricao": "Mousepad grande com iluminação RGB e superfície antiderrapante",
+        "marca": "SteelSeries",
+        "preco": 299.90,
+        "imagem": "imagem/9.png",
+        "link": "paginaProd.html?id=9"
+    },
+    {
+        "id": 10,
+        "nome": "Placa Mãe B550",
+        "categoria": "Placa Mãe",
+        "descricao": "Placa-mãe com suporte para processadores Ryzen e PCIe 4.0",
+        "marca": "ASUS",
+        "preco": 450.00,
+        "imagem": "imagem/10.png",
+        "link": "paginaProd.html?id=10"
+    },
+    {
+        "id": 11,
+        "nome": "Teclado Mecânico Compacto",
+        "categoria": "Teclado",
+        "descricao": "Teclado mecânico compacto com iluminação RGB",
+        "marca": "Corsair",
+        "preco": 599.90,
+        "imagem": "imagem/11.png",
+        "link": "paginaProd.html?id=11"
+    },
+    {
+        "id": 12,
+        "nome": "Mouse Gamer Sem Fio 20000 DPI",
+        "categoria": "Mouse",
+        "descricao": "Mouse sem fio óptico de 20000 DPI e iluminação RGB",
+        "marca": "Logitech",
+        "preco": 599.90,
+        "imagem": "imagem/12.png",
+        "link": "paginaProd.html?id=12"
+    },
+    {
+        "id": 13,
+        "nome": "Headset Wireless 7.1",
+        "categoria": "Headset",
+        "descricao": "Headset sem fio com som surround e bateria de 30 horas",
+        "marca": "SteelSeries",
+        "preco": 749.90,
+        "imagem": "imagem/13.png",
+        "link": "paginaProd.html?id=13"
+    },
+    {
+        "id": 14,
+        "nome": "Placa de Vídeo RX 6800",
+        "categoria": "Placa de Vídeo",
+        "descricao": "Placa de vídeo AMD RX 6800 com 16GB GDDR6",
+        "marca": "AMD",
+        "preco": 3499.99,
+        "imagem": "imagem/14.png",
+        "link": "paginaProd.html?id=14"
+    },
+    {
+        "id": 15,
+        "nome": "Monitor 240Hz 25\"",
+        "categoria": "Monitor",
+        "descricao": "Monitor de 25 polegadas com taxa de atualização de 240Hz e G-Sync",
+        "marca": "Alienware",
+        "preco": 2499.99,
+        "imagem": "imagem/15.png",
+        "link": "paginaProd.html?id=15"
+    },
+    {
+        "id": 16,
+        "nome": "Gabinete ATX com Vidro",
+        "categoria": "Gabinete",
+        "descricao": "Gabinete ATX com painel de vidro e iluminação RGB",
+        "marca": "CoolerMaster",
+        "preco": 799.99,
+        "imagem": "imagem/16.png",
+        "link": "paginaProd.html?id=16"
+    },
+    {
+        "id": 17,
+        "nome": "Fonte 750W Modular",
+        "categoria": "Fonte",
+        "descricao": "Fonte de alimentação modular de 750W com certificação 80 Plus Gold",
+        "marca": "EVGA",
+        "preco": 649.90,
+        "imagem": "imagem/17.png",
+        "link": "paginaProd.html?id=17"
+    },
+    {
+        "id": 18,
+        "nome": "Monitor Ultrawide 144Hz",
+        "categoria": "Monitor",
+        "descricao": "Monitor ultrawide de 34 polegadas com suporte para 144Hz e FreeSync",
+        "marca": "LG",
+        "preco": 3499.90,
+        "imagem": "imagem/18.png",
+        "link": "paginaProd.html?id=18"
+    },
+    {
+        "id": 19,
+        "nome": "Placa de Captura 4K",
+        "categoria": "Placa de Captura",
+        "descricao": "Placa de captura de vídeo com taxa de captura de 4K 60fps",
+        "marca": "Elgato",
+        "preco": 1499.90,
+        "imagem": "imagem/19.png",
+        "link": "paginaProd.html?id=19"
+    },
+    {
+        "id": 20,
+        "nome": "Webcam Full HD 1080p",
+        "categoria": "Webcam",
+        "descricao": "Webcam com resolução Full HD e taxa de 60 quadros por segundo",
+        "marca": "Logitech",
+        "preco": 499.90,
+        "imagem": "imagem/20.png",
+        "link": "paginaProd.html?id=20"
+    },
+    {
+        "id": 21,
+        "nome": "Cadeira Gamer Premium",
+        "categoria": "Cadeira",
+        "descricao": "Cadeira gamer premium com acabamento de alta qualidade e ergonomia avançada",
+        "marca": "DXRacer",
+        "preco": 1999.90,
+        "imagem": "imagem/21.png",
+        "link": "paginaProd.html?id=21"
+    },
+    {
+        "id": 22,
+        "nome": "Teclado Óptico Gamer",
+        "categoria": "Teclado",
+        "descricao": "Teclado gamer com tecnologia óptica para maior precisão e iluminação RGB",
+        "marca": "Razer",
+        "preco": 799.90,
+        "imagem": "imagem/22.png",
+        "link": "paginaProd.html?id=22"
+    },
+    {
+        "id": 23,
+        "nome": "Fone In-Ear Gamer",
+        "categoria": "Fone",
+        "descricao": "Fone intra-auricular com som de alta definição e microfone embutido",
+        "marca": "HyperX",
+        "preco": 249.90,
+        "imagem": "imagem/23.png",
+        "link": "paginaProd.html?id=23"
+    },
+    {
+        "id": 24,
+        "nome": "Monitor 4K 144Hz 28\"",
+        "categoria": "Monitor",
+        "descricao": "Monitor de 28 polegadas com resolução 4K e taxa de atualização de 144Hz",
+        "marca": "Samsung",
+        "preco": 3499.99,
+        "imagem": "imagem/24.png",
+        "link": "paginaProd.html?id=24"
+    },
+    {
+        "id": 25,
+        "nome": "Controle DualSense",
+        "categoria": "Controle",
+        "descricao": "Controle para PlayStation 5 com feedback háptico e gatilhos adaptativos",
+        "marca": "Sony",
+        "preco": 449.90,
+        "imagem": "imagem/25.png",
+        "link": "paginaProd.html?id=25"
+    },
+    {
+        "id": 26,
+        "nome": "Cadeira Gamer Compacta",
+        "categoria": "Cadeira",
+        "descricao": "Cadeira gamer compacta e confortável, ideal para setups pequenos",
+        "marca": "ThunderX3",
+        "preco": 1299.90,
+        "imagem": "imagem/26.png",
+        "link": "paginaProd.html?id=26"
+    },
+    {
+        "id": 27,
+        "nome": "Placa Mãe Z590",
+        "categoria": "Placa Mãe",
+        "descricao": "Placa-mãe com chipset Z590, suporte para processadores Intel de 11ª geração",
+        "marca": "ASUS",
+        "preco": 1299.90,
+        "imagem": "imagem/27.png",
+        "link": "paginaProd.html?id=27"
+    },
+    {
+        "id": 28,
+        "nome": "Carregador Wireless RGB",
+        "categoria": "Carregador",
+        "descricao": "Carregador sem fio com iluminação RGB e suporte para dispositivos Qi",
+        "marca": "Corsair",
+        "preco": 299.90,
+        "imagem": "imagem/28.png",
+        "link": "paginaProd.html?id=28"
+    },
+    {
+        "id": 29,
+        "nome": "Mousepad Antiderrapante",
+        "categoria": "Mousepad",
+        "descricao": "Mousepad com superfície antiderrapante e bordas costuradas",
+        "marca": "SteelSeries",
+        "preco": 149.90,
+        "imagem": "imagem/29.png",
+        "link": "paginaProd.html?id=29"
+    },
+    {
+        "id": 30,
+        "nome": "Teclado Semi-Mecânico RGB",
+        "categoria": "Teclado",
+        "descricao": "Teclado semi-mecânico com iluminação RGB e teclas de atalho programáveis",
+        "marca": "Redragon",
+        "preco": 299.90,
+        "imagem": "imagem/30.png",
+        "link": "paginaProd.html?id=30"
+    },
+    {
+        "id": 31,
+        "nome": "Placa de Som Externa",
+        "categoria": "Áudio",
+        "descricao": "Placa de som externa USB com suporte a áudio 7.1",
+        "marca": "Creative",
+        "preco": 349.90,
+        "imagem": "imagem/31.png",
+        "link": "paginaProd.html?id=31"
+    },
+    {
+        "id": 32,
+        "nome": "Webcam 4K 30fps",
+        "categoria": "Webcam",
+        "descricao": "Webcam com resolução 4K e taxa de 30 quadros por segundo",
+        "marca": "Logitech",
+        "preco": 899.90,
+        "imagem": "imagem/32.png",
+        "link": "paginaProd.html?id=32"
+    },
+    {
+        "id": 33,
+        "nome": "Fone de Ouvido Over-Ear",
+        "categoria": "Fone",
+        "descricao": "Fone de ouvido over-ear com almofadas confortáveis e som estéreo",
+        "marca": "Sony",
+        "preco": 299.90,
+        "imagem": "imagem/33.png",
+        "link": "paginaProd.html?id=33"
+    },
+    {
+        "id": 34,
+        "nome": "Gabinete Mini ITX",
+        "categoria": "Gabinete",
+        "descricao": "Gabinete compacto Mini ITX com suporte para placas de vídeo grandes",
+        "marca": "CoolerMaster",
+        "preco": 599.90,
+        "imagem": "imagem/34.png",
+        "link": "paginaProd.html?id=34"
+    },
+    {
+        "id": 35,
+        "nome": "Suporte de Headset RGB",
+        "categoria": "Acessório",
+        "descricao": "Suporte para headset com iluminação RGB e portas USB integradas",
+        "marca": "Razer",
+        "preco": 199.90,
+        "imagem": "imagem/35.png",
+        "link": "paginaProd.html?id=35"
+    },
+    {
+        "id": 36,
+        "nome": "Ram 16GB DDR4 3600MHz",
+        "categoria": "Memória",
+        "descricao": "Módulo de memória RAM DDR4 de 16GB com frequência de 3600MHz",
+        "marca": "Corsair",
+        "preco": 499.90,
+        "imagem": "imagem/36.png",
+        "link": "paginaProd.html?id=36"
+    },
+    {
+        "id": 37,
+        "nome": "Adaptador Wi-Fi 6",
+        "categoria": "Rede",
+        "descricao": "Adaptador de rede Wi-Fi 6 com alta velocidade e baixa latência",
+        "marca": "TP-Link",
+        "preco": 199.90,
+        "imagem": "imagem/37.png",
+        "link": "paginaProd.html?id=37"
+    },
+    {
+        "id": 38,
+        "nome": "Cabo DisplayPort 1.4",
+        "categoria": "Cabo",
+        "descricao": "Cabo DisplayPort 1.4 com suporte a resoluções de até 8K",
+        "marca": "Cable Matters",
+        "preco": 99.90,
+        "imagem": "imagem/38.png",
+        "link": "paginaProd.html?id=38"
+    },
+    {
+        "id": 39,
+        "nome": "Headset com Cancelamento de Ruído",
+        "categoria": "Headset",
+        "descricao": "Headset com cancelamento de ruído ativo e som de alta qualidade",
+        "marca": "Sony",
+        "preco": 1199.90,
+        "imagem": "imagem/39.png",
+        "link": "paginaProd.html?id=39"
+    },
+    {
+        "id": 40,
+        "nome": "Adaptador de Rede 10GbE",
+        "categoria": "Rede",
+        "descricao": "Adaptador de rede com suporte para conexões 10GbE",
+        "marca": "Intel",
+        "preco": 599.90,
+        "imagem": "imagem/40.png",
+        "link": "paginaProd.html?id=40"
+    }
+]

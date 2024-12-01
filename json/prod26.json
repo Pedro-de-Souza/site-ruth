@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 26,
+            "nome": "Cadeira Gamer Compacta",
+            "categoria": "Cadeira",
+            "descricao": "Cadeira gamer compacta e confortável, ideal para setups pequenos",
+            "marca": "ThunderX3",
+            "preco": 1299.90,
+            "imagem": "imagem/26.png",
+            "link": "paginaProd.html?id=26"
+        }
+        
+    ]   
+}

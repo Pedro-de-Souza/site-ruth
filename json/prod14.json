@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 14,
+            "nome": "Placa de Vídeo RX 6800",
+            "categoria": "Placa de Vídeo",
+            "descricao": "Placa de vídeo AMD RX 6800 com 16GB GDDR6",
+            "marca": "AMD",
+            "preco": 3499.99,
+            "imagem": "imagem/14.png",
+            "link": "paginaProd.html?id=14"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 16,
+            "nome": "Gabinete ATX com Vidro",
+            "categoria": "Gabinete",
+            "descricao": "Gabinete ATX com painel de vidro e iluminação RGB",
+            "marca": "CoolerMaster",
+            "preco": 799.99,
+            "imagem": "imagem/16.png",
+            "link": "paginaProd.html?id=16"
+        }
+        
+    ]   
+}

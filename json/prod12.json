@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 12,
+        "nome": "Mouse Gamer Sem Fio 20000 DPI",
+        "categoria": "Mouse",
+        "descricao": "Mouse sem fio óptico de 20000 DPI e iluminação RGB",
+        "marca": "Logitech",
+        "preco": 599.90,
+        "imagem": "imagem/12.png",
+        "link": "paginaProd.html?id=12"
+        }
+        
+    ]   
+}

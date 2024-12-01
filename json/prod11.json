@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 11,
+            "nome": "Teclado Mecânico Compacto",
+            "categoria": "Teclado",
+            "descricao": "Teclado mecânico compacto com iluminação RGB",
+            "marca": "Corsair",
+            "preco": 599.90,
+            "imagem": "imagem/11.png",
+            "link": "paginaProd.html?id=11"
+        }
+        
+    ]   
+}

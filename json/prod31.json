@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 31,
+        "nome": "Placa de Som Externa",
+        "categoria": "Áudio",
+        "descricao": "Placa de som externa USB com suporte a áudio 7.1",
+        "marca": "Creative",
+        "preco": 349.90,
+        "imagem": "imagem/31.png",
+        "link": "paginaProd.html?id=31"
+        }
+        
+    ]   
+}

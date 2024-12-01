@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 23,
+            "nome": "Fone In-Ear Gamer",
+            "categoria": "Fone",
+            "descricao": "Fone intra-auricular com som de alta definição e microfone embutido",
+            "marca": "HyperX",
+            "preco": 249.90,
+            "imagem": "imagem/23.png",
+            "link": "paginaProd.html?id=23"
+        }
+        
+    ]   
+}

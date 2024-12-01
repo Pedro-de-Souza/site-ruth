@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 15,
+            "nome": "Monitor 240Hz 25\"",
+            "categoria": "Monitor",
+            "descricao": "Monitor de 25 polegadas com taxa de atualização de 240Hz e G-Sync",
+            "marca": "Alienware",
+            "preco": 2499.99,
+            "imagem": "imagem/15.png",
+            "link": "paginaProd.html?id=15"
+        }
+        
+    ]   
+}

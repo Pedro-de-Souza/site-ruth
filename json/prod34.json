@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 34,
+        "nome": "Gabinete Mini ITX",
+        "categoria": "Gabinete",
+        "descricao": "Gabinete compacto Mini ITX com suporte para placas de vídeo grandes",
+        "marca": "CoolerMaster",
+        "preco": 599.90,
+        "imagem": "imagem/34.png",
+        "link": "paginaProd.html?id=34"
+        }
+        
+    ]   
+}

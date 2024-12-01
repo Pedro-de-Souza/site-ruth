@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 33,
+            "nome": "Fone de Ouvido Over-Ear",
+            "categoria": "Fone",
+            "descricao": "Fone de ouvido over-ear com almofadas confortáveis e som estéreo",
+            "marca": "Sony",
+            "preco": 299.90,
+            "imagem": "imagem/33.png",
+            "link": "paginaProd.html?id=33"
+        }
+        
+    ]   
+}

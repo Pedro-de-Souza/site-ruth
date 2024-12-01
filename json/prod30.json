@@ -1,0 +1,17 @@
+{
+    "produtoSite": [
+        {
+        
+
+            "id": 30,
+            "nome": "Teclado Semi-Mecânico RGB",
+            "categoria": "Teclado",
+            "descricao": "Teclado semi-mecânico com iluminação RGB e teclas de atalho programáveis",
+            "marca": "Redragon",
+            "preco": 299.90,
+            "imagem": "imagem/30.png",
+            "link": "paginaProd.html?id=30"
+        }
+        
+    ]   
+}

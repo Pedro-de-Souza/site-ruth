@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 40,
+            "nome": "Adaptador de Rede 10GbE",
+            "categoria": "Rede",
+            "descricao": "Adaptador de rede com suporte para conexões 10GbE",
+            "marca": "Intel",
+            "preco": 599.90,
+            "imagem": "imagem/40.png",
+            "link": "paginaProd.html?id=40"
+        }
+        
+    ]   
+}

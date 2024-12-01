@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 22,
+            "nome": "Teclado Óptico Gamer",
+            "categoria": "Teclado",
+            "descricao": "Teclado gamer com tecnologia óptica para maior precisão e iluminação RGB",
+            "marca": "Razer",
+            "preco": 799.90,
+            "imagem": "imagem/22.png",
+            "link": "paginaProd.html?id=22"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 21,
+            "nome": "Cadeira Gamer Premium",
+            "categoria": "Cadeira",
+            "descricao": "Cadeira gamer premium com acabamento de alta qualidade e ergonomia avançada",
+            "marca": "DXRacer",
+            "preco": 1999.90,
+            "imagem": "imagem/21.png",
+            "link": "paginaProd.html?id=21"
+        }
+        
+    ]   
+}

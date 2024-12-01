@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NODER</title>
+    <link rel="stylesheet" href="css/style.css" id="temaEstilo">
+    <link rel="shortcut icon" href="imagem/lupa.png" type="image/x-icon">
+</head>
+
+<body class="">
+
+
+
+
+    <!----------------------------------------------------------------------------------------------------------->
+    <div class="navbar" id="navbar">
+        <div class="container-FF" id="FF">
+            <div class="flex">
+
+                <div class="navbar">
+                    <a href="index.html"><img src="imagem/logo.png"></a>
+
+                    <div class="topicos">
+                        <a href="produtos.html">Produtos</a>
+                        <a href="https://web.whatsapp.com/">Ajuda</a>
+                        
+                        
+                        <div class="iconeCarrinho">
+                            <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1" />
+                            </svg>
+                            <span>0</span>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <section class="slider1">
+        <div class="slider-content">
+            
+            <input type="radio" name="btn-radio" id="radio1" checked>
+            <input type="radio" name="btn-radio" id="radio2">
+            <input type="radio" name="btn-radio" id="radio3">
+
+            <div class="slide-box primeiro">
+                <img src="imagem/slider-1.svg" id="slide1" alt="">
+            </div>
+
+            <div class="slide-box">
+                <img class="img-desktop" src="imagem/slider-2.png" id="slide2" alt="slide 3">
+            </div>
+
+            <div class="slide-box">
+                <img class="img-desktop" src="imagem/slider-3.png" id="slide3" alt="slide 3">
+            </div>
+
+            <div class="nav-auto">
+                <div class="auto-btn1"></div>
+                <div class="auto-btn2"></div>
+                <div class="auto-btn3"></div>
+            </div>
+
+            <div class="nav-manual">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+                <label for="radio3" class="manual-btn"></label>
+            </div>
+
+        </div>
+    </section>
+    <!----------------------------------------------------------------------------------------------------------->
+
+
+
+
+   
+    
+    <div class="container">
+
+
+        <header>
+
+            <div class="busca">
+                <label for="buscaInput">
+                    <button><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" fill="#00196A" class="bi bi-search" viewBox="0 0 16 16">
+                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"/>
+                      </svg></button>
+                </label>
+                <input type="text" id="buscaInput" placeholder="Pesquisar">
+            </div>
+      
+    
+        </header>
+</div>
+<!--PRODUTOS-->     
+
+<div class="carrosel-prods">
+
+        <div class="btn-voltar">
+            <button id="btn-voltar-carrosel1" onclick="scrollCarousel(-1080)"><</button>
+        </div>
+
+        <div class="container-lista">
+            <div class="lista1">
+                
+            </div>
+        </div>
+
+        <div class="btn-avancar">
+            <button id="btn-avancar-carrosel1" onclick="scrollCarousel(1080)">></button>
+        </div>
+
+</div>
+
+
+<!--FIM-->
+
+<!--PROMO-->
+<a href="paginaProd.html?id=8">
+<div class="containerPromo">
+<div class="promoRTX">
+
+    <div class="imgPromo">
+        <img src="imagem/promo.png" alt="">
+    </div>
+    <div class="promoInfo">
+        <h1>Promoção AMD</h1>
+        <p>O Ryzen 9 5900X é um processador de alta performance da AMD, baseado na arquitetura Zen 3. Com 12 núcleos e 24 threads, ele é projetado para tarefas intensivas, como jogos, edição de vídeo e renderização 3D. Opera a uma frequência base de 3,7 GHz, alcançando até 4,8 GHz em boost. Seu TDP é de 105W, e ele é compatível com o soquete AM4, utilizando a tecnologia PCIe 4.0 para maior velocidade em componentes como SSDs e GPUs. Destaca-se pela eficiência energética e pelo desempenho excepcional em cargas multithreaded e single-threaded.</p>
+        <div class="precoP">
+            <p id="precoAntigo">de <span>3000,00</span></p>
+            <p id="precoNovo">R$2499,99</p>
+        </div>
+    </div>
+</div>
+</div>
+</a>
+
+<!--FIM-->
+
+    
+    <div class="tabelaCarrinho">
+        <h1>Meu carrinho</h1>
+        <div class="listaCarrinho">
+        </div>
+        <div class="linha"></div>
+        <div class="tc">
+            <h3>Total:
+            <p id="totalCarrinho"></p></h3>
+        </div>
+        <div class="btn">
+            <button class="fechar" id="button">FECHAR</button>
+            <button class="comprar" id="button">COMPRAR</button>
+        </div>
+    </div>
+
+    <footer>
+        <div class="rodape-copy">
+            <p class="copyright">copyright © - site feito para fins educativos</p>
+        </div>
+
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script src="js/carrosel.js"></script>
+
+</body>
+
+</html>

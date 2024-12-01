@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        "id": 9,
+        "nome": "Mousepad Gamer XXL RGB",
+        "categoria": "Mousepad",
+        "descricao": "Mousepad grande com iluminação RGB e superfície antiderrapante",
+        "marca": "SteelSeries",
+        "preco": 299.90,
+        "imagem": "imagem/9.png",
+        "link": "paginaProd.html?id=9"
+
+        }
+        
+    ]   
+}

@@ -1,0 +1,17 @@
+{
+    "produtoSite": [
+        {
+            "id": 4,
+            "nome": "Monitor Curvo 27\" 165Hz",
+            "categoria": "Monitor",
+            "descricao": "Monitor curvo de 27 polegadas com 165Hz e resolução 1440p",
+            "marca": "Samsung",
+            "preco": 1999.00,
+            "imagem": "imagem/4.png",
+            "link": "paginaProd.html?id=4"
+    
+
+        }
+        
+    ]   
+}

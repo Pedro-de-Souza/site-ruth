@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 27,
+        "nome": "Placa Mãe Z590",
+        "categoria": "Placa Mãe",
+        "descricao": "Placa-mãe com chipset Z590, suporte para processadores Intel de 11ª geração",
+        "marca": "ASUS",
+        "preco": 1299.90,
+        "imagem": "imagem/27.png",
+        "link": "paginaProd.html?id=27"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 20,
+        "nome": "Webcam Full HD 1080p",
+        "categoria": "Webcam",
+        "descricao": "Webcam com resolução Full HD e taxa de 60 quadros por segundo",
+        "marca": "Logitech",
+        "preco": 499.90,
+        "imagem": "imagem/20.png",
+        "link": "paginaProd.html?id=20"
+        }
+        
+    ]   
+}

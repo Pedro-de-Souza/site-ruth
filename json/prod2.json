@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        "id": 2,
+        "nome": "Mouse Gamer 16000 DPI",
+        "categoria": "Mouse",
+        "descricao": "Mouse com sensor óptico de alta precisão com ajuste de DPI até 16000",
+        "marca": "Razer",
+        "preco": 349.99,
+        "imagem": "imagem/2.png",
+        "link": "paginaProd.html?id=2"
+
+        }
+        
+    ]   
+}

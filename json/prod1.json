@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+            "id": 1,
+            "nome": "Teclado Mecânico RGB",
+            "categoria": "Teclado",
+            "descricao": "Teclado mecânico com switches Cherry MX e iluminação RGB",
+            "marca": "Corsair",
+            "preco": 499.99,
+            "imagem": "imagem/1.png",
+            "link": "paginaProd.html?id=1"
+
+        }
+        
+    ]   
+}

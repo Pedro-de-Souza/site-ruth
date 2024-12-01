@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 24,
+            "nome": "Monitor 4K 144Hz 28\"",
+            "categoria": "Monitor",
+            "descricao": "Monitor de 28 polegadas com resolução 4K e taxa de atualização de 144Hz",
+            "marca": "Samsung",
+            "preco": 3499.99,
+            "imagem": "imagem/24.png",
+            "link": "paginaProd.html?id=24"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 13,
+            "nome": "Headset Wireless 7.1",
+            "categoria": "Headset",
+            "descricao": "Headset sem fio com som surround e bateria de 30 horas",
+            "marca": "SteelSeries",
+            "preco": 749.90,
+            "imagem": "imagem/13.png",
+            "link": "paginaProd.html?id=13"
+        }
+        
+    ]   
+}

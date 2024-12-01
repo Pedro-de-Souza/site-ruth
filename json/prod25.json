@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 25,
+        "nome": "Controle DualSense",
+        "categoria": "Controle",
+        "descricao": "Controle para PlayStation 5 com feedback háptico e gatilhos adaptativos",
+        "marca": "Sony",
+        "preco": 449.90,
+        "imagem": "imagem/25.png",
+        "link": "paginaProd.html?id=25"
+        }
+        
+    ]   
+}

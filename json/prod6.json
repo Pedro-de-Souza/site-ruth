@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 6,
+        "nome": "Placa de Vídeo RTX 3080",
+        "categoria": "Placa de Vídeo",
+        "descricao": "Placa de vídeo com 10GB GDDR6X, ideal para jogos em 4K",
+        "marca": "NVIDIA",
+        "preco": 5999.99,
+        "imagem": "imagem/6.png",
+        "link": "paginaProd.html?id=6"
+        }
+        
+    ]   
+}

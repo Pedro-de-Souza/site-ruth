@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 18,
+            "nome": "Monitor Ultrawide 144Hz",
+            "categoria": "Monitor",
+            "descricao": "Monitor ultrawide de 34 polegadas com suporte para 144Hz e FreeSync",
+            "marca": "LG",
+            "preco": 3499.90,
+            "imagem": "imagem/18.png",
+            "link": "paginaProd.html?id=18"
+        }
+        
+    ]   
+}

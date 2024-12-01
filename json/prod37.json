@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+    "id": 37,
+        "nome": "Adaptador Wi-Fi 6",
+        "categoria": "Rede",
+        "descricao": "Adaptador de rede Wi-Fi 6 com alta velocidade e baixa latência",
+        "marca": "TP-Link",
+        "preco": 199.90,
+        "imagem": "imagem/37.png",
+        "link": "paginaProd.html?id=37"
+        }
+        
+    ]   
+}

@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 8,
+            "nome": "Processador Ryzen 9 5900X",
+            "categoria": "Processador",
+            "descricao": "Processador AMD com 12 núcleos e 24 threads",
+            "marca": "AMD",
+            "preco": 2499.90,
+            "imagem": "imagem/8.png",
+            "link": "paginaProd.html?id=8"
+        }
+        
+    ]   
+}

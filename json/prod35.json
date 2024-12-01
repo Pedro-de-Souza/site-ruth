@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 35,
+            "nome": "Suporte de Headset RGB",
+            "categoria": "Acessório",
+            "descricao": "Suporte para headset com iluminação RGB e portas USB integradas",
+            "marca": "Razer",
+            "preco": 199.90,
+            "imagem": "imagem/35.png",
+            "link": "paginaProd.html?id=35"
+        }
+        
+    ]   
+}

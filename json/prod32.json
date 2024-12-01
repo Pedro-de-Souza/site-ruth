@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 32,
+            "nome": "Webcam 4K 30fps",
+            "categoria": "Webcam",
+            "descricao": "Webcam com resolução 4K e taxa de 30 quadros por segundo",
+            "marca": "Logitech",
+            "preco": 899.90,
+            "imagem": "imagem/32.png",
+            "link": "paginaProd.html?id=32"
+        }
+        
+    ]   
+}

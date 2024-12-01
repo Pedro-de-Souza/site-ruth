@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 10,
+        "nome": "Placa Mãe B550",
+        "categoria": "Placa Mãe",
+        "descricao": "Placa-mãe com suporte para processadores Ryzen e PCIe 4.0",
+        "marca": "ASUS",
+        "preco": 450.00,
+        "imagem": "imagem/10.png",
+        "link": "paginaProd.html?id=10"
+        }
+        
+    ]   
+}

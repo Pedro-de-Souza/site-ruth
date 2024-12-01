@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 5,
+        "nome": "Cadeira Gamer Ergonômica",
+        "categoria": "Cadeira",
+        "descricao": "Cadeira com ajuste de altura, inclinação e apoio lombar",
+        "marca": "DXRacer",
+        "preco": 1299.90,
+        "imagem": "imagem/5.png",
+        "link": "paginaProd.html?id=5"
+        }
+        
+    ]   
+}

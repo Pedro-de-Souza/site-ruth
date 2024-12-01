@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 7,
+        "nome": "SSD NVMe 1TB",
+        "categoria": "Armazenamento",
+        "descricao": "SSD NVMe de 1TB com velocidades de leitura de até 3500MB/s",
+        "marca": "Samsung",
+        "preco": 799.99,
+        "imagem": "imagem/7.png",
+        "link": "paginaProd.html?id=7"
+        }
+        
+    ]   
+}

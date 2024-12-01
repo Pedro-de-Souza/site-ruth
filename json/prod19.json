@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+            "id": 19,
+            "nome": "Placa de Captura 4K",
+            "categoria": "Placa de Captura",
+            "descricao": "Placa de captura de vídeo com taxa de captura de 4K 60fps",
+            "marca": "Elgato",
+            "preco": 1499.90,
+            "imagem": "imagem/19.png",
+            "link": "paginaProd.html?id=19"
+        }
+        
+    ]   
+}

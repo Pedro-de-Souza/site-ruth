@@ -1,0 +1,16 @@
+{
+    "produtoSite": [
+        {
+        
+"id": 28,
+        "nome": "Carregador Wireless RGB",
+        "categoria": "Carregador",
+        "descricao": "Carregador sem fio com iluminação RGB e suporte para dispositivos Qi",
+        "marca": "Corsair",
+        "preco": 299.90,
+        "imagem": "imagem/28.png",
+        "link": "paginaProd.html?id=28"
+        }
+        
+    ]   
+}
